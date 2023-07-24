@@ -9,6 +9,7 @@ body {
 .exp-header {
   text-transform: uppercase;
   text-align: center;
+  font-size: 30px;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
   background-color: rgba(178,34,34)
@@ -19,4 +20,29 @@ h1  {
   font-size: 50px;
   text-align: center;
   text-transform: uppercase;
+}
+
+h3  {
+  font-family: Arial;
+  font-size: 30px;
+  text-align: center;
+}
+
+h4 {
+  font-family: Arial;
+  font-size: 30px;
+  text-align: Center; 
+  text-transform: uppercase;
+}
+
+h5 {
+  font-family: Arial;
+  font-size: 30px;
+  text-align: Center; 
+  text-transform: uppercase;
+}
+
+p,li {
+  color: white;
+  font-size: 20px;
 }
