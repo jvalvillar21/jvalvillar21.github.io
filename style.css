@@ -12,12 +12,10 @@ body {
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
   background-color: rgba(178,34,34)
-}
 
-<html>
-<head>
-<style>
-#grad1 {
-  height: 200px;
-  background-color: red;
-  background-image: linear-gradient(to bottom right, red, yellow);
+h1  {
+  font-family: Lucida Grande;
+  font-size: 50px;
+  text-align: center;
+  text-transform: uppercase;
+}
