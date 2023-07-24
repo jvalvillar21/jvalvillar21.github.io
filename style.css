@@ -1,5 +1,5 @@
 body {
-  background-color: #DC143c;
+  background-color: black;
   color: #FFD;
   font-family: Arial, helvetica, sans-serif;
   margin: 5% 10%;
@@ -12,6 +12,7 @@ body {
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
   background-color: rgba(178,34,34)
+}
 
 h1  {
   font-family: Lucida Grande;
